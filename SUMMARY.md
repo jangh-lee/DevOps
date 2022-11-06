@@ -17,6 +17,8 @@
   * [Terraform Tool Kit](terraform/terraform-tool-kit.md)
 * [Page 1](page-1.md)
 
-## Group 1
+## AWS
 
-* [Page 2](group-1/page-2.md)
+* [AWS Network](aws/aws-network/README.md)
+  * [VPC 구성요소](aws/aws-network/vpc.md)
+* [Page 2](aws/page-2.md)
