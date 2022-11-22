@@ -38,7 +38,7 @@ terraform init
 ```
 ```
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 코드 파일 수정하여, EC2에 이름 부여하기
 
