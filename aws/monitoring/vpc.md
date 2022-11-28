@@ -8,7 +8,7 @@ description: VPC에서 구성되는 구성요소에 대해서 알아봅시다.
 
 
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   VPC (Virtual Private Cloud)
 
