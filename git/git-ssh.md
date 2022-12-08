@@ -31,17 +31,17 @@ id_rsa   id_rsa.pub   known_hosts
 
 해당 리포지토리에 접속하여 우측 상단에 profile 아이콘을 클릭 > Edit profile을 클릭
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 다시 왼쪽에 User Settings 에서 \[SSH Keys] 탭을 누릅니다.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 
 
 key 부분에 ssh pub 키를 등록고 \[Add key] 버튼을 클릭
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 ##
 
@@ -49,7 +49,7 @@ key 부분에 ssh pub 키를 등록고 \[Add key] 버튼을 클릭
 
 해당 리포지토리에 접속하여 \[Repository Setting] 을 클릭
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -59,22 +59,22 @@ Security > Access Keys로 접
 
 \[Add Key] 클릭
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 접속할 서버의 ssh pub키를 복사하여 넣습니다.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 clone할 소스로 들어가서 \[clone]을 클릭
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 SSH로 선택한 후 주소를 복사
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 이상없이 clone 됨을 확인했습니다.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>

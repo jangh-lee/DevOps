@@ -1,4 +1,29 @@
-# vault 구성
+# aws profile 및 vault 구성
+
+aws cli를 활용할 때 가장 기본적인 것은 credentials을 사용합니다.
+
+현 사용자의 credental은 \~/.aws/credentials 에서 확인가능하며
+
+여러개의 등록을 위해서 대괄호로 구분하고 있습니다.
+
+```
+[credential명]
+aws_access_key_id = accesskeyidaccesskeyid
+aws_secret_access_key = secretaccesskeysecretaccesskey
+[credential명]
+aws_access_key_id = accesskeyidaccesskeyid
+aws_secret_access_key = secretaccesskeysecretaccesskey
+```
+
+
+
+credential을&#x20;
+
+
+
+
+
+
 
 [https://github.com/99designs/aws-vault](https://github.com/99designs/aws-vault)
 
