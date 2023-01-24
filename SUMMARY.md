@@ -1,12 +1,22 @@
 # Table of contents
 
-* [DevOps](README.md)
+* [Node.js](README.md)
+* [JAVA](java/README.md)
+  * [Page 6](java/page-6.md)
+  * [Page 6](java/page-6-1.md)
+* [GO](go.md)
+* [DevOps](<README (1).md>)
 * [Kubernetes](kubernetes/README.md)
   * [Install kubectl](kubernetes/install-kubectl.md)
+  * [Page 1](kubernetes/page-1.md)
   * [Kubernetes Tool Kit](kubernetes/kubernetes-tool-kit/README.md)
     * [K9S](kubernetes/kubernetes-tool-kit/k9s.md)
-  * [Page 1](kubernetes/page-1/README.md)
+    * [botkube](kubernetes/kubernetes-tool-kit/botkube.md)
+  * [용어정리](kubernetes/undefined/README.md)
     * [K9S](https://k9scli.io/)
+    * [Deployment & replicaSet](kubernetes/undefined/deployment-and-replicaset.md)
+    * [Cronjob](kubernetes/undefined/cronjob.md)
+  * [eks](kubernetes/eks.md)
 * [Kubernetes Tool Kit](kubernetes-tool-kit/README.md)
   * [Page 4](kubernetes-tool-kit/page-4.md)
   * [Kubernetes Tool Kit](kubernetes-tool-kit/kubernetes-tool-kit.md)
@@ -23,6 +33,7 @@
 
 ## AWS
 
+* [Secrets Manager](aws/secrets-manager.md)
 * [Monitoring](aws/monitoring/README.md)
   * [VPC 구성요소](aws/monitoring/vpc.md)
   * [NACL 활용](aws/monitoring/nacl.md)
@@ -39,6 +50,7 @@
     * [Docker hub](aws/container/registry/docker-hub.md)
     * [\[AWS\] ECR](aws/container/registry/aws-ecr.md)
     * [\[OnP\] Harbor](aws/container/registry/onp-harbor.md)
+* [System Manager](aws/system-manager.md)
 
 ***
 

@@ -34,7 +34,7 @@ IAM 역할은 EC2 인스턴스에서 AWS service에 접근할 수 있도록 역�
 
 AWS 서비스, EC2 선택
 
-<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 정책 필터에서 CloudWatchAgentServerPolicy를 선택
 

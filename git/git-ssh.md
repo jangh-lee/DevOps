@@ -35,7 +35,7 @@ id_rsa   id_rsa.pub   known_hosts
 
 다시 왼쪽에 User Settings 에서 \[SSH Keys] 탭을 누릅니다.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -67,7 +67,7 @@ Security > Access Keys로 접
 
 clone할 소스로 들어가서 \[clone]을 클릭
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -77,4 +77,4 @@ SSH로 선택한 후 주소를 복사
 
 이상없이 clone 됨을 확인했습니다.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
