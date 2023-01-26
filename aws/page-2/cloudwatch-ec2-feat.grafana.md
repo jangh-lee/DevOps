@@ -38,7 +38,7 @@ AWS 서비스, EC2 선택
 
 정책 필터에서 CloudWatchAgentServerPolicy를 선택
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 역할 이름 작성, \[역할 만들기] 클릭
 

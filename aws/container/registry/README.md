@@ -6,7 +6,7 @@
 
 1. ECR 서비스로 접속합니다. \[시작하기] 버튼을 통해서 리포지토리를 생성합니다.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 2\. 표시 여부에서 프라이빗 혹은 퍼블릭을 설정합니다.
 
