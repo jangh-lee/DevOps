@@ -35,6 +35,8 @@
 
 ## AWS
 
+* [EC2](aws/ec2/README.md)
+  * [EC2에 추가 패키지 설치](aws/ec2/ec2.md)
 * [Secrets Manager](aws/secrets-manager.md)
 * [Monitoring](aws/monitoring/README.md)
   * [VPC 구성요소](aws/monitoring/vpc.md)
