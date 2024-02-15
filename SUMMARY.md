@@ -63,8 +63,10 @@
   * [git ssh 접근](git/git-ssh.md)
   * [Git 명령어 정리](git/git.md)
   * [GIT 용어 정리](git/git-1.md)
+* [Page](page.md)
 
 ## 🚗 Tools
 
+* [\[python\] google spread sheet](tools/python-google-spread-sheet.md)
 * [Ventoy](tools/ventoy.md)
 * [Ventoy(다중iso툴)](https://www.ventoy.net/en/index.html)
