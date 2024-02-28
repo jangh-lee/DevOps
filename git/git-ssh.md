@@ -55,7 +55,11 @@ key 부분에 ssh pub 키를 등록고 \[Add key] 버튼을 클릭
 
 Security > Access Keys로 접
 
+<div align="center">
+
 <figure><img src="../.gitbook/assets/스크린샷 2022-11-28 오후 2.48.16.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 \[Add Key] 클릭
 
