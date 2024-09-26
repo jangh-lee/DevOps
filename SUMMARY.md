@@ -3,6 +3,7 @@
 * [DashBoard](README.md)
 * [Docker](docker.md)
 * [Node.js](<README (1).md>)
+* [Network](network.md)
 * [JAVA](java/README.md)
   * [Page 6](java/page-6.md)
   * [Page 6](java/page-6-1.md)
@@ -38,6 +39,8 @@
 
 ## AWS
 
+* [S3](aws/s3/README.md)
+  * [aws s3 cli](aws/s3/aws-s3-cli.md)
 * [EC2](aws/ec2/README.md)
   * [EC2에 추가 패키지 설치](aws/ec2/ec2.md)
 * [Secrets Manager](aws/secrets-manager.md)
@@ -61,7 +64,7 @@
 
 ***
 
-* [Page 3](page-3.md)
+* [모니터링](undefined.md)
 * [Git](git/README.md)
   * [git ssh 접근](git/git-ssh.md)
   * [Git 명령어 정리](git/git.md)

@@ -1,5 +1,7 @@
 # eks
 
+EKS 소개 동영상 [https://www.youtube.com/watch?v=E49Q3y9wsUo](https://www.youtube.com/watch?v=E49Q3y9wsUo)
+
 1. eksctl 사용하기
 2. [https://eksctl.io/](https://eksctl.io/)
 

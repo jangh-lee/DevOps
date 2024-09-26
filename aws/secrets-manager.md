@@ -6,6 +6,10 @@
 
 
 
+secret manager와 parameter store의 차이점
+
+
+
 서비스 -> 보안, 자격증명 및 규정 준수 -> secret Manager를 선택
 
 시크릿 매니저 항목에 가서 \[보안 암호 값 검색]을 통해 검색한다.
